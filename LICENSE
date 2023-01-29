@@ -1,0 +1,252 @@
+----------------------------------------------------------------------------------------------------------------
+APL开源软件协议
+AMH PUBLIC LICENSE 开源软件协议 (V1.1)
+适用于免费授权或商业运营发展的开源软件协议
+----------------------------------------------------------------------------------------------------------------
+
+APL开源软件协议介绍
+为有效保护用户使用软件的透明纯净、安全稳定性与用户所享有软件的相关权益，
+同时能更好有助于国内开源软件可持续发展，AMH官网起草制定以下开源软件协议，命名为：APL开源软件协议。
+APL开源软件协议将致力于推动软件透明、开源创新发展，主张完美主义、专注品质，并呼吁尊重原创版权、宣扬信守契约精神。
+
+
+以下协议有使用简称
+软件产品开发方：软件官方
+软件产品使用者：用户
+
+
+APL开源软件协议约定
+
+软件官方遵守协议约定
+1) 禁止闭源发布源码程序，所有源码程序用户都可阅读。
+2) 必须提供完整源码程序，可任何方式，如提供线上下载、光盘、磁盘拷贝。
+3) 必须提供透明源码程序，禁止使用任何可逆或不可逆手段进行混淆源码程序。
+4) 禁止任何侵权行为，包括软件的源码程序、资料文档、文件信息。
+5) 禁止软件产品插入与软件官方无关的任何广告信息，包括文字、图像、媒体信息。
+6) 禁止软件产品内置与软件官方程序应用无关的任何第三方插件程序、组件。
+7) 禁止软件程序存在任何不经过用户许可的远程响应执行的控制程序。
+8) 禁止软件程序使用任何手段收集用户隐私信息与用户储存的数据。
+
+
+用户遵守协议约定
+1) 软件使用用户必须遵守中华人民共和国国家法律法规。
+2) 禁止用户修改软件官方任何的版权说明信息，包括程序的版权协议说明、软件官方链接、文字说明、图像标志、媒体信息。
+3) 禁止用户通过任何方式破坏、侵犯软件官方的正常发展运营，包括软件官方程序的正常运行与商业授权机制。
+
+
+协议使用与生效声明　
+使用APL开源软件协议的软件官方需在源码程序注释注明使用APL开源软件协议与附带协议说明文件，
+用户自安装使用APL开源协议的软件开始，协议将立即生效。
+
+
+APL V1.1
+2021-06-01 ©amh.sh
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+APL开源软件协议
+AMH PUBLIC LICENSE 开源软件协议 (V1.1)
+适用于免费授权或商业运营发展的开源软件协议
+----------------------------------------------------------------------------------------------------------------
+加入APL开源软件协议
+如果您是软件官方并能与APL协议约定达成共识、有与我们共同的意愿，
+欢迎您加入APL开源软件协议。
+
+
+APL开源软件协议使用
+1) 程序源码文件注释使用APL开源软件协议。
+/************************************************
+ * 软件源码说明等信息
+ * 
+ * @license APL (http://amh.sh/apl.htm) V1.1
+ *
+ */
+
+2) 下载APL开源软件协议文件license.txt同源码程序文件发布。
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+APL开源软件协议
+AMH PUBLIC LICENSE 开源软件协议 (V1.1)
+适用于免费授权或商业运营发展的开源软件协议
+----------------------------------------------------------------------------------------------------------------
+
+违约追究
+软件官方与软件用户须遵守协议制定的每一条款，
+如果软件官方或用户有违反该协议的任一条款，遵守协议的约定方将有权立即停止提供服务，与有权利依法追究违反方的法律刑事责任。
+
+如有软件官方或软件用户违约情况，
+请您与我们联系提交案件说明、并提供有效于审查的存档脚本程序、分析资料，AMH官网将会协助跟进。
+
+联系我们
+amh@amh.sh
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+APL Open Source Software Agreement
+
+AMH PUBLIC LICENSE Open Source Software Agreement (V1.1)
+
+Open source software agreement applicable to free licensing or commercial operation development
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+Introduction to APL open source software protocol
+
+In order to effectively protect the transparency, purity, security and stability of the software used by users and the relevant rights and interests of users,
+
+At the same time, it can better contribute to the sustainable development of domestic open source software. The AMH official website drafted the following open source software agreement, named APL open source software agreement.
+
+The APL open source software agreement will be committed to promoting software transparency, open source innovation and development, advocating perfectionism, focusing on quality, and calling for respect for original copyright, and promoting the spirit of abiding by the contract.
+
+
+
+
+The following agreements are abbreviated
+
+Software product developer: software official
+
+User of software product: user
+
+
+
+
+APL open source software agreement
+
+
+
+The software officially complies with the agreement
+
+1) It is prohibited to publish source code programs in closed source, and all users of source code programs can read them.
+
+2) The complete source code program must be provided in any way, such as online download, CD and disk copy.
+
+3) Transparent source code programs must be provided. It is prohibited to use any reversible or irreversible means to confuse source code programs.
+
+4) Any infringement is prohibited, including the source code program, data files and file information of the software.
+
+5) It is prohibited to insert any advertising information, including text, image and media information, that is not related to the official software.
+
+6) It is prohibited to build any third-party plug-ins and components that are not related to the official application of the software.
+
+7) The software program is prohibited from having any control program that is executed by remote response without the permission of the user.
+
+8) Software programs are prohibited from using any means to collect user privacy information and data stored by users.
+
+
+
+
+Users comply with the agreement
+
+1) Users of the software must comply with the national laws and regulations of the People's Republic of China.
+
+2) Users are prohibited from modifying any official copyright description information of the software, including the copyright agreement description of the program, official software link, text description, image logo, and media information.
+
+3) Users are prohibited from destroying or infringing the normal development and operation of the official software program in any way, including the normal operation of the official software program and the commercial authorization mechanism.
+
+
+
+
+Statement on the use and effectiveness of the agreement
+
+The software official who uses the APL open source software agreement should indicate the use of the APL open source software agreement and the accompanying agreement documentation in the source code program comments,
+
+The agreement will take effect immediately after the user installs the software using the APL open source agreement.
+
+
+
+
+APL V1.1
+
+2021-06-01 © amh.sh
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+APL Open Source Software Agreement
+
+AMH PUBLIC LICENSE Open Source Software Agreement (V1.1)
+
+Open source software agreement applicable to free licensing or commercial operation development
+
+----------------------------------------------------------------------------------------------------------------
+
+Join the APL open source software agreement
+
+If you are the software official and can reach a consensus with the APL agreement and have the common will with us,
+
+Welcome to join the APL open source software agreement.
+
+
+
+
+Use of APL open source software protocol
+
+1) The APL open source software protocol is used for program source file annotation.
+
+/************************************************
+
+*Software source code description and other information
+
+*
+
+* @license APL ( http://amh.sh/apl.htm ) V1.1
+
+*
+
+*/
+
+
+
+2) Download the APL open source software protocol file license.txt and release it with the source program file.
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
+APL Open Source Software Agreement
+
+AMH PUBLIC LICENSE Open Source Software Agreement (V1.1)
+
+Open source software agreement applicable to free licensing or commercial operation development
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
+Investigation for breach of contract
+
+The software official and the software user must abide by every clause of the agreement,
+
+If the software official or user violates any of the terms of this agreement, the party who abides by the agreement will have the right to immediately stop providing services and have the right to investigate the legal and criminal responsibilities of the breaching party according to law.
+
+
+
+In case of default of software official or software user,
+
+Please contact us to submit the case description and provide the archived script program and analysis data that are effective for review. The AMH official website will assist in follow-up.
+
+
+
+contact us
+
+amh@amh.sh
