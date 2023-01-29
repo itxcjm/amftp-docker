@@ -7,4 +7,6 @@ AMFTP is a safe, efficient and powerful online FTP management client (open sourc
 AMFTP是一个安全高效、功能强大的在线FTP管理客户端 (开源免费)，使用AMFTP可线上对FTP服务器文件数据进行管理，线上运行可避免本地客户端FTP指令来回切换等操作耗时， 可大幅提高FTP操作响应时间、与实现本地客户端无法复制FTP文件、远程下载、文件解压、数据压缩等功能。
 ## Usage
 
+    docker pull itxcjm/amftp
+
     docker run -p 81:80 --name amftp
